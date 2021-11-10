@@ -35,4 +35,10 @@ public class Sucursal {
     public void setRegion(String region) {
         this.region = region;
     }
+
+    public void showCamiones(){
+        for (int i=0; i<camiones.size();i++){
+            camiones.get(i).toString();
+        }
+    }
 }

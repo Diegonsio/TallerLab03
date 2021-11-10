@@ -55,4 +55,16 @@ public class Camion {
     public void setEstado(boolean estado) {
         this.estado = estado;
     }
+
+    public String toString(){
+        return("patente: "+ patente + "codigo: " + codigoCamion + parseEstado());
+    }
+    private String parseEstado(){
+        if(estado){
+            return ("on service");
+        }else return("out of service");
+    }
+    public void cambiarEstado(){
+        this.estado=!estado;
+    }
 }
