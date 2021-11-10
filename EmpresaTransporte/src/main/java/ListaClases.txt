@@ -1,0 +1,12 @@
+Empresa:
+private nombre, private direccion
+Sucursal:
+private codigoSucursal private region
+Camion:(Pertenece solo a una sucursal)
+private codigoCamion, private patente, private descripcion, private estado(in or out of service)
+Flete:
+private codigoFlete, private descripcion
+Producto:
+private codigoProducto, private tipoProducto
+Enum:
+Para odenar los camiones segun empresa u otros usos similares 
