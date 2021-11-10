@@ -4,15 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b5147383-1f0a-4fe4-a3e5-bcbeaba7b119" name="Changes" comment="Primer commit">
-      <change afterPath="$PROJECT_DIR$/Empresa/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Empresa/src/main/java/Camion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Empresa/src/main/java/Empresa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Empresa/src/main/java/Flete.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Empresa/src/main/java/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Empresa/src/main/java/Pack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Empresa/src/main/java/Producto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Empresa/src/main/java/Sucursal.java" afterDir="false" />
+    <list default="true" id="b5147383-1f0a-4fe4-a3e5-bcbeaba7b119" name="Changes" comment="Estructura del proyecto">
+      <change afterPath="$PROJECT_DIR$/Empresa/src/main/java/Controlador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Empresa/src/main/java/LectorInt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Empresa/src/main/java/Menu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Empresa/src/main/java/Camion.java" beforeDir="false" afterPath="$PROJECT_DIR$/Empresa/src/main/java/Camion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Empresa/src/main/java/Empresa.java" beforeDir="false" afterPath="$PROJECT_DIR$/Empresa/src/main/java/Empresa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Empresa/src/main/java/Sucursal.java" beforeDir="false" afterPath="$PROJECT_DIR$/Empresa/src/main/java/Sucursal.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +46,11 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\rober\IdeaProjects\TallerLab03\Empresa\src\main\java" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -77,7 +81,14 @@
       <option name="project" value="LOCAL" />
       <updated>1636545507604</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Estructura del proyecto">
+      <created>1636548721181</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1636548721181</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -93,6 +104,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Primer commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Primer commit" />
+    <MESSAGE value="Estructura del proyecto" />
+    <option name="LAST_COMMIT_MESSAGE" value="Estructura del proyecto" />
   </component>
 </project>
